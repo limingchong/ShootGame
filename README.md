@@ -9,5 +9,6 @@ Java game
   - Tingen Yu 俞婷恩
 
 ## ATENTION
-! If you want to copy or the codes, you must [email me](mailto://19726006@bjtu.edu.cn) at first!!!
+- If you want to copy or use the codes, start please.
+- [Email me](mailto://19726006@bjtu.edu.cn).
 
